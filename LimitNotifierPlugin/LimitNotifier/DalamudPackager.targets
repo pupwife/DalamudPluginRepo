@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+    <!-- Custom DalamudPackager targets -->
+    <!-- This file exists to prevent the default packager from running -->
+    <!-- The packager will look for plugin.json in the ProjectDir automatically -->
+</Project>
+

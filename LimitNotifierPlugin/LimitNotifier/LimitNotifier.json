@@ -1,0 +1,20 @@
+{
+  "Author": "Limit Notifier Developer",
+  "Name": "Limit Notifier",
+  "Punchline": "Notifies you when Limit Break bars are filled.",
+  "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
+  "InternalName": "LimitNotifier",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "Tags": [
+    "limit",
+    "break",
+    "notification",
+    "toast",
+    "combat"
+  ],
+  "IconUrl": ""
+}
+
