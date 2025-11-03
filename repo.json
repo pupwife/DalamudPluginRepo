@@ -1,0 +1,55 @@
+[
+  {
+    "Author": "puwpife",
+    "Name": "Limit Notifier",
+    "Punchline": "Notifies you when Limit Break bars are filled.",
+    "Description": "Displays toast notifications when the Limit Break bar reaches 1, 2, or 3 full bars.",
+    "InternalName": "LimitNotifier",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": "",
+    "IconUrl": "",
+    "Tags": [
+      "limit",
+      "break",
+      "notification",
+      "toast",
+      "combat"
+    ]
+  },
+  {
+    "Author": "pupwife",
+    "Name": "Dispeller",
+    "Punchline": "Easily clean out your Glamour Dresser.",
+    "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
+    "InternalName": "Dispeller",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": "",
+    "IconUrl": "",
+    "Tags": [
+      "glamour",
+      "dresser",
+      "models",
+      "fashion",
+      "cute",
+      "utility"
+    ]
+  }
+]
