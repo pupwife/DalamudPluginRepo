@@ -31,7 +31,7 @@
     "Punchline": "Easily clean out your Glamour Dresser.",
     "Description": "A cute plugin to help you manage your Glamour Dresser by identifying items that share the same visual models.",
     "InternalName": "Dispeller",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1",
     "RepoUrl": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -53,5 +53,6 @@
     ]
   }
 ]
+
 
 
