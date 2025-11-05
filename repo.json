@@ -39,9 +39,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/pupwife/DalamudPluginRepo/releases/download/dispeller_v1.1/Dispeller.zip",
-    "DownloadLinkTesting": "https://github.com/pupwife/DalamudPluginRepo/releases/download/dispeller_v1.1/Dispeller.zip",
-    "DownloadLinkUpdate": "https://github.com/pupwife/DalamudPluginRepo/releases/download/dispeller_v1.1/Dispeller.zip",
+    "DownloadLinkInstall": "https://github.com/pupwife/Dispeller/releases/latest/download/Dispeller.zip",
+    "DownloadLinkTesting": "https://github.com/pupwife/Dispeller/releases/latest/download/Dispeller.zip",
+    "DownloadLinkUpdate": "https://github.com/pupwife/Dispeller/releases/latest/download/Dispeller.zip",
     "IconUrl": "",
     "Tags": [
       "glamour",
